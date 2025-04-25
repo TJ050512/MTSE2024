@@ -7,4 +7,4 @@
 | `harris_comment.csv` | User comments responding to Kamala Harris’s posts, including stance labels and metadata. |
 | `trump_comment.csv` | User comments responding to Donald Trump’s posts, including stance labels and metadata. |
 | `post.csv` | The original posts (tweets) from both Kamala Harris and Donald Trump, including timestamps, text, and media links. |
-| `index.html` | A simple webpage for showcasing and downloading the dataset. You can preview it directly or host it via GitHub Pages. |
+
